@@ -1,0 +1,15 @@
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.csproj.AssemblyReference.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.GeneratedMSBuildEditorConfig.editorconfig
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfoInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfo.cs
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.csproj.CoreCompileInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\bin\Debug\net6.0\Exercise15.exe
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\bin\Debug\net6.0\Exercise15.deps.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\bin\Debug\net6.0\Exercise15.runtimeconfig.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\bin\Debug\net6.0\Exercise15.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\bin\Debug\net6.0\Exercise15.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\refint\Exercise15.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\Exercise15.genruntimeconfig.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise15\obj\Debug\net6.0\ref\Exercise15.dll
